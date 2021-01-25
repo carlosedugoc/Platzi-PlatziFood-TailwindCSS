@@ -2,7 +2,7 @@
 
 ![Desktop preview](./design/desktop-preview.png)
 
-## Bienvenido! 👋
+## Welcome! 👋
 
 ### Install Node
 
