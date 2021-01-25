@@ -1,3 +1,8 @@
+# PlatziFood
+
+![Desktop preview](./design/desktop-preview.png)
+
+## Bienvenido! 👋
 
 ### Install Node
 
