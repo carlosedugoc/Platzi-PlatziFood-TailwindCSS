@@ -1,4 +1,4 @@
-# PlatziFood
+# PlatziFood(TailwindCSS)
 
 ![Desktop preview](./design/desktop-preview.png)
 
