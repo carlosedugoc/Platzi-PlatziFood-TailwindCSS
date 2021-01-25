@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+.form-control {
+	@apply w-full bg-gray-300 text-gray-800   leading-snug py-2 px-4 rounded border border-blue-200 placeholder-secondary hover:bg-white focus:outline-none;
+}
+
+.btn {
+  @apply font-bold py-2 px-4 rounded shadow-lg bg-gray-500 block;
+}
+.btn-blue {
+  @apply bg-blue-500 text-white;
+}
+
+.btn-blue:hover {
+  @apply bg-blue-700;
+}
+
+.btn-primary {
+  @apply bg-primary text-white;
+}
+
+@tailwind utilities;
+
+
